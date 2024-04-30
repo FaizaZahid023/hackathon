@@ -1,0 +1,16 @@
+.box{
+   background-image: url(./img/image\ 152.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 30px;
+    margin: 20px;
+    height: 789px;
+   
+
+}
+.btn1{
+    border: 1px solid white;
+}
+.head1{
+    margin-top: 180px;
+}
